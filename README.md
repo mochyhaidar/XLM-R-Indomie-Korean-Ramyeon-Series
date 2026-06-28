@@ -11,7 +11,7 @@ Sistem ini dilengkapi dengan modul **Deteksi Aspek Otomatis (Lexicon-Based)** se
 ### 1. Unduh Berkas Model (Trained Weights)
 Karena ukuran berkas model yang besar (sekitar 1.1 GB) melampaui batas unggah platform GitHub, berkas bobot model disimpan secara publik pada tautan Google Drive berikut:
 
-👉 **[KLIK DI SINI UNTUK MENGUNDUH FOLDER MODEL](https://drive.google.com/drive/folders/15M6uiiin2dvzNIB_YkQvE41tmH5RYdOF?usp=sharing)** 
+👉 **[KLIK DI SINI UNTUK MENGUNDUH FOLDER MODEL](https://drive.google.com/drive/folders/1pp0Zcxbqz1utJ2OtBW5zvrqDXv371-PA?usp=sharing)** 
 
 Setelah diunduh, buat folder baru bernama `model_weights` di dalam direktori proyek ini, lalu ekstrak kelima berkas model tersebut ke dalamnya sehingga strukturnya menjadi seperti berikut:
 
